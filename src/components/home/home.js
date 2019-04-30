@@ -1,7 +1,7 @@
 // Importando o React
 import React from "react";
 // Importando os components necessários da lib react-materialize
-import { Row, Col, Card } from 'react-materialize';
+import { Row, Col, Card, Footer } from 'react-materialize';
 // Importando o componenet UserProfile
 import UserProfile from '../user_profile/user_profile'
 // Importando o component Experience
@@ -43,6 +43,7 @@ const Home = () => (
         /> 
     </Col>
   </Row>
+  
 );
 
 export default Home;

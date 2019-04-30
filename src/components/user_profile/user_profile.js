@@ -9,12 +9,12 @@ const UserProfile = () => (
   <Card>
       <Row>
         <Col s={8} m={8} offset="s2 m2">
-          <img src={avatar} className="circle responsive-img" />
+          <img src={avatar} className="circle responsive-img" alt="Imagem do Avatar" />
         </Col>
       </Row>
       <Row className="center-align">
-        <h5 >Lorem Ipsum</h5>
-        <p className="grey darken-2 white-text">Ruby Developer</p>
+        <h5 >Adriano Biolchi</h5>
+        <p className="grey darken-2 white-text">React Developer</p>
       </Row>
   </Card>
 );
