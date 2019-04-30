@@ -7,7 +7,10 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 
-##Installation
+## Installation
+```sh
+clone project
+```
 ```sh
 npm install
 ```
@@ -18,7 +21,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Meta
 
-Adriano Biolchi – [@YourTwitter](https://twitter.com/_adribiolchii) – adrianobiolchi@outlook.com
+Adriano Biolchi – [@_adriabiolchii](https://twitter.com/_adribiolchii) – adrianobiolchi@outlook.com
 
 ## Contributing
 
