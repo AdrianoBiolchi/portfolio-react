@@ -2,7 +2,7 @@
 # Portfolio PWA React
 > Project created in React to create a simple PWA. In the example a portfolio was created with a home page and another contact.
 
-[![Build Status][travis-image]][travis-url]
+[![Build Status](https://travis-ci.com/AdrianoBiolchi/portfolio-react.svg?branch=master)](https://travis-ci.com/AdrianoBiolchi/portfolio-react)
 
 
 ## Installation
@@ -35,5 +35,5 @@ Adriano Biolchi – [@_adriabiolchii](https://twitter.com/_adribiolchii) – adr
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-image]: https://travis-ci.com/AdrianoBiolchi/portfolio-react.svg?branch=master
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
