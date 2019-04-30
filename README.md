@@ -36,4 +36,4 @@ Adriano Biolchi – [@_adriabiolchii](https://twitter.com/_adribiolchii) – adr
 
 <!-- Markdown link & img dfn's -->
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
